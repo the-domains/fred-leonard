@@ -1,6 +1,7 @@
 name: Fred Leonard
 favicon: null
 layout_spectrum: 0.7226727344095707
+typography_spectrum: 0.9096421143040061
 cta:
   domain: null
   bucket: null
@@ -23,4 +24,3 @@ purpose:
   - name: awareness
     item: null
     url: null
-typography_spectrum: 0.9096421143040061
